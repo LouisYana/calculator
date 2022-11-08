@@ -1,3 +1,7 @@
+Calculator app made by Louis Yanagisawa
+CSS from Tyler Potts, other code was made by myself
+calculating algorithm used was shunting yard
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
