@@ -1,6 +1,10 @@
-Calculator app made by Louis Yanagisawa
-CSS from Tyler Potts, other code was made by myself
+Calculator app made by Louis Yanagisawa\
+CSS from Tyler Potts, other code was made by myself\
 calculating algorithm used was shunting yard
+
+# Todo
+Adding parenthesis\
+Removing 0 from the front of number
 
 # Getting Started with Create React App
 
